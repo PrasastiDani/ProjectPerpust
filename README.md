@@ -1,1 +1,1 @@
-# ProjectPerpust
+Program manajemen sistem perpustakaan adalah sebuah aplikasi berbasis perangkat lunak yang dirancang untuk mengelola berbagai aktivitas operasional di perpustakaan secara efisien. Sistem ini mempermudah proses administrasi perpustakaan, seperti pendataan koleksi buku, pengelolaan data anggota, peminjaman dan pengembalian buku, serta pelaporan aktivitas perpustakaan.
